@@ -14,7 +14,6 @@ public class PetService {
         if(type.equals(PetType.DOG)){
         	breeds.add("Labradar");
         	breeds.add(("Pommarenian"));
-        	breeds.add(("Pommarenian"));
 
         }else if(type.equals(PetType.CAT)){
         	breeds.add("Black");
